@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valenka68
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning SWIFT.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on a team projects
 - 📫 How to reach me +7 915 660 75 57
 
